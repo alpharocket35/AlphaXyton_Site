@@ -116,8 +116,25 @@ a { color: inherit; text-decoration: none; }
   background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.08);
 }
 .youtube-icon { color: #fff; background: rgba(255,32,47,.13); }
-.instagram-icon { color: #d9a2ff; background: rgba(155,92,255,.12); }
-.plus-icon { color: #a6a6b0; }
+.instagram-icon {
+  color: #fff;
+  background: #FFD21F;
+}
+
+.tiktok-icon {
+  color: #fff;
+  background: #FF4F9A;
+}
+
+.twitch-icon {
+  color: #fff;
+  background: #9146FF;
+}
+
+.discord-icon {
+  color: #fff;
+  background: #5865F2;
+}
 .card-label, .person-role { color: #797983; font-size: 9px; font-weight: 800; letter-spacing: .17em; }
 .card-content h3 { margin-top: 6px; font-size: 27px; }
 .card-content p { color: var(--muted); font-size: 13px; margin-top: 2px; }
