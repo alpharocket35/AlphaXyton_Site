@@ -70,6 +70,10 @@ a { color: inherit; text-decoration: none; }
 .btn-primary { background: var(--red); border-color: var(--red); box-shadow: 0 12px 35px rgba(255,32,47,.18); }
 .btn-primary:hover { background: #ff3543; box-shadow: 0 16px 45px rgba(255,32,47,.28); }
 .btn-secondary { background: rgba(255,255,255,.045); backdrop-filter: blur(10px); }
+.instagram-btn { background: #FFD21F; }
+.tiktok-btn { background: #FF4F9A; }
+.twitch-btn { background: #9146FF; }
+.discord-btn { background: #5865F2; }
 .btn-secondary:hover { border-color: rgba(155,92,255,.55); box-shadow: 0 14px 35px rgba(155,92,255,.12); }
 .instagram-btn { background: #FFD21F; }
 .tiktok-btn { background: #FF4F9A; }
